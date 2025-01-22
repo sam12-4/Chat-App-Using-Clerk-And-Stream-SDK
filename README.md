@@ -112,5 +112,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 
 For questions or feedback, feel free to reach out:
-- GitHub: [@ssam12-4](https://github.com/sam12-4)
+- GitHub: [@sam12-4](https://github.com/sam12-4)
 - Email: sameerh64h@gmail.com
