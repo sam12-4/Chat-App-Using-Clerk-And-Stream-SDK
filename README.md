@@ -1,4 +1,4 @@
-# ChatApp
+# Chat-App-Using-Clerk-And-Stream-SDK
 
 This is a modern, fully-functional chat application built using [Clerk](https://clerk.dev) for user authentication and [Stream SDK](https://getstream.io) for chat functionality. The app is designed to provide a seamless chat experience with features like real-time messaging, user management, and customizable UI components.
 
@@ -41,8 +41,8 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chatapp.git
-   cd chatapp
+   git clone https://github.com/sam12-4/Chat-App-Using-Clerk-And-Stream-SDK.git
+   cd Chat-App-Using-Clerk-And-Stream-SDK
    ```
 
 2. Install dependencies:
@@ -112,5 +112,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 
 For questions or feedback, feel free to reach out:
-- GitHub: [@yourusername](https://github.com/sam12-4)
+- GitHub: [@ssam12-4](https://github.com/sam12-4)
 - Email: sameerh64h@gmail.com
